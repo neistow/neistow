@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**neistow/neistow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+### ✨About me✨
+```csharp
+    public class Info
+    {
+        public string Name => "Hleb";
+        public int Age => 18;
+        public string Country => "Ukraine";
+        public string Occupation => "Developer, Student";
+    }
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻Technologies👨‍💻
+
+```csharp
+    public class Technologies
+    {
+        public string[] Languages => new[] {"C#", "Python", "JavaScript"};
+        public string[] Frameworks => new[] {"ASP NET", "Flask", "WPF"};
+        public string[] Databases => new[] {"MySQL", "MSSQL", "SQLite"};
+        public string[] WantToLearn => new[] {"F#", "TypeScript"};
+    }
+```
+
+### 🚀Social🚀
+```csharp
+    public class Social
+    {
+        public string WebSite => "http://neistow.codes/";
+        public string GitHub => "https://github.com/neistow/";
+        public string Telegram => "https://t.me/neistow";
+    }
+```
+
