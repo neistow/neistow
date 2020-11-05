@@ -19,7 +19,7 @@ ___
     public class Technologies
     {
         public string[] Languages => new[] {"C#", "Python", "JavaScript"};
-        public string[] Frameworks => new[] {"ASP NET", "Flask", "WPF"};
+        public string[] Frameworks => new[] {"ASP NET", "Flask", "Vue.js"};
         public string[] Databases => new[] {"MySQL", "MSSQL", "SQLite"};
         public string[] WantToLearn => new[] {"F#", "TypeScript"};
     }
